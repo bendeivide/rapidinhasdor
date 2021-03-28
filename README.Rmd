@@ -1,0 +1,28 @@
+---
+title: "README"
+author: "Ben Dêivide"
+date: "28/03/2021"
+output: 
+  github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Objetivo
+
+Diretório criado para disponibilizar os scripts da playlist [*Rapidinhas do R*](https://youtube.com/playlist?list=PL-20Z1XFWKR1YPXb12UMmXRsAKelZhzca), no canal <http://youtube.com/bendeivide>. 
+
+Se inscrevam em nosso canal para receber dicas diárias.
+
+```{r pressure, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("rapidR.png")
+```
+
+
+
+## Rapidinhas
+
+- [rapidR0000](https://youtu.be/7ThNBHuM_hU)
+- rapidR000

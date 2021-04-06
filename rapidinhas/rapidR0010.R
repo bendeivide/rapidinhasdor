@@ -1,0 +1,19 @@
+###########################################################
+# Rapidinhas do R
+# Canal: http://youtube.com/bendeivide
+# Repositorio: https://github.com/bendeivide/rapidinhasdor
+#----------------------------------------------------------
+# RapidR 0010 - Clonando um repositorio pelo terminal GitHub     
+#               e RStudio (Parte I)
+#----------------------------------------------------------
+# Prof. Ben Dêivide (http://bendeivide.github.io/)
+########################################################### 
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bendeivide/teste2.git
+git push -u origin main
+
+

@@ -25,4 +25,7 @@ knitr::include_graphics("rapidR.png")
 ## Rapidinhas
 
 - [rapidR0000](https://youtu.be/7ThNBHuM_hU)
-- rapidR000
+- [rapidR0001](https://youtu.be/BYzeP0zroGg)
+- [rapidR0002](https://youtu.be/kQqKcDl0wUM)
+- rapidR0003
+- rapidR0004

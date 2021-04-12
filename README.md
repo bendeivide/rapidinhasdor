@@ -1,13 +1,10 @@
 README
 ================
 Ben Dêivide
-12 abril, 2021, 17h:38min:59seg
+12 abril, 2021, 17h:49min:32seg
 
 -   [1 Objetivo](#objetivo)
 -   [2 Rapidinhas](#rapidinhas)
-
-<!-- html_document: --> <!--   toc: yes -->
-<!--   number_sections: yes -->
 
 # 1 Objetivo
 

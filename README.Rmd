@@ -3,12 +3,12 @@ title: "README"
 author: "Ben Dêivide"
 date: "`r format(Sys.time(), '%d %B, %Y, %Hh:%Mmin:%Sseg')`"
 output: 
-  # html_document:
-  #   toc: yes
-  #   number_sections: yes
-  github_document:
+  html_document:
     toc: yes
     number_sections: yes
+  # github_document:
+  #   toc: yes
+  #   number_sections: yes
 ---
 
 

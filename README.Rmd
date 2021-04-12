@@ -1,16 +1,22 @@
 ---
 title: "README"
 author: "Ben Dêivide"
-date: "28/03/2021"
+date: "`r format(Sys.time(), '%d %B, %Y, %Hh:%Mmin:%Sseg')`"
 output: 
-  github_document
+  github_document:
+    toc: yes
+    number_sections: yes
 ---
+
+  <!-- html_document: -->
+  <!--   toc: yes -->
+  <!--   number_sections: yes -->
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Objetivo
+# Objetivo
 
 Diretório criado para disponibilizar os scripts da playlist [*Rapidinhas do R*](https://youtube.com/playlist?list=PL-20Z1XFWKR1YPXb12UMmXRsAKelZhzca), no canal <http://youtube.com/bendeivide>. 
 
@@ -22,10 +28,16 @@ knitr::include_graphics("rapidR.png")
 
 
 
-## Rapidinhas
+# Rapidinhas
 
 - [rapidR0000](https://youtu.be/7ThNBHuM_hU)
 - [rapidR0001](https://youtu.be/BYzeP0zroGg)
 - [rapidR0002](https://youtu.be/kQqKcDl0wUM)
-- rapidR0003
-- rapidR0004
+- [rapidR0003](https://youtu.be/66dYCoJH9IM)
+- [rapidR0004](https://youtu.be/VMip8fVUAVc)
+- [rapidR0005](https://youtu.be/0tYss8T7Mew)
+- [rapidR0006](https://youtu.be/f9NUvS6J5DI)
+- [rapidR0007](https://youtu.be/nYJkO4454Q0)
+- [rapidR0008](https://youtu.be/YSzS0q6lrgg)
+- [rapidR0009](https://youtu.be/C9JtFhdQHLo)
+- [rapidR0010](https://youtu.be/A3C5zPC61UY)

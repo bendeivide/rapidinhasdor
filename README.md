@@ -1,7 +1,7 @@
 README
 ================
 Ben Dêivide
-20 maio, 2021, 05h:52min:11seg
+20 maio, 2021, 06h:01min:15seg
 
 -   [1 Objetivo](#objetivo)
 -   [2 Rapidinhas](#rapidinhas)
@@ -31,3 +31,4 @@ Se inscrevam em nosso canal para receber dicas diárias.
 -   [rapidR0009](https://youtu.be/C9JtFhdQHLo)
 -   [rapidR0010](https://youtu.be/A3C5zPC61UY)
 -   [rapidR0011](https://youtu.be/0VNFn4rE_Mw)
+-   [rapidR0012](https://youtu.be/6pVikRF7FQo)

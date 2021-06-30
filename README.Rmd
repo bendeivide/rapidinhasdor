@@ -3,12 +3,12 @@ title: "README"
 author: "Ben Dêivide"
 date: "`r format(Sys.time(), '%d %B, %Y, %Hh:%Mmin:%Sseg')`"
 output: 
-  # html_document:
-  #   toc: yes
-  #   number_sections: yes
-  github_document:
+  html_document:
     toc: yes
     number_sections: yes
+  # github_document:
+  #   toc: yes
+  #   number_sections: yes
 ---
 
 
@@ -46,3 +46,7 @@ knitr::include_graphics("rapidR.png")
 - [rapidR0013](https://youtu.be/5FtccvTSbYc)
 - [rapidR0014](https://youtu.be/RUDB0Nm3t10)
 - [rapidR0015](https://youtu.be/MQEubR328po)
+- [rapidR0016](https://youtu.be/kmO183CNqoE)
+- [rapidR0017](https://youtu.be/k8rVCr6TzTg)
+- [rapidR0018](https://youtu.be/FbTLrfYWQQw)
+- [rapidR0019](https://youtu.be/-DOk1_6lphs)

@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "Rapidinhas do R"
 author: "Ben Dêivide"
 date: "`r format(Sys.time(), '%d %B, %Y, %Hh:%Mmin:%Sseg')`"
 output: 
@@ -26,9 +26,11 @@ Se inscrevam em nosso canal para receber dicas diárias.
 knitr::include_graphics("rapidR.png")
 ```
 
+# Scripts e demais materias das Rapidinhas
 
+Acesse em [Repositório](https://github.com/bendeivide/rapidinhasdor/tree/main/rapidinhas)!
 
-# Rapidinhas
+# Vídeos das Rapidinhas
 
 - [rapidR0000](https://youtu.be/7ThNBHuM_hU)
 - [rapidR0001](https://youtu.be/BYzeP0zroGg)
@@ -50,3 +52,6 @@ knitr::include_graphics("rapidR.png")
 - [rapidR0017](https://youtu.be/k8rVCr6TzTg)
 - [rapidR0018](https://youtu.be/FbTLrfYWQQw)
 - [rapidR0019](https://youtu.be/-DOk1_6lphs)
+- [rapidR0020](https://youtu.be/J4wJ5cK8KkU)
+- [rapidR0021](https://youtu.be/vkfUQwPINXI)
+- [rapidR0022](https://youtu.be/-DOk1_6lphs)

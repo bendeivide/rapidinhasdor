@@ -1,0 +1,11 @@
+pt:
+  languageCode: pt
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/pt
+
+
+en:
+  languageCode: en
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+

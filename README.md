@@ -1,10 +1,12 @@
-README
+Rapidinhas do R
 ================
 Ben Dêivide
-30 junho, 2021, 09h:32min:10seg
+14 abril, 2022, 08h:24min:17seg
 
--   [1 Objetivo](#objetivo)
--   [2 Rapidinhas](#rapidinhas)
+-   [1 Objetivo](#1-objetivo)
+-   [2 Scripts e demais materias das
+    Rapidinhas](#2-scripts-e-demais-materias-das-rapidinhas)
+-   [3 Vídeos das Rapidinhas](#3-vídeos-das-rapidinhas)
 
 # 1 Objetivo
 
@@ -17,7 +19,12 @@ Se inscrevam em nosso canal para receber dicas diárias.
 
 <img src="rapidR.png" width="100%" />
 
-# 2 Rapidinhas
+# 2 Scripts e demais materias das Rapidinhas
+
+Acesse em
+[Repositório](https://github.com/bendeivide/rapidinhasdor/tree/main/rapidinhas)!
+
+# 3 Vídeos das Rapidinhas
 
 -   [rapidR0000](https://youtu.be/7ThNBHuM_hU)
 -   [rapidR0001](https://youtu.be/BYzeP0zroGg)
@@ -39,3 +46,6 @@ Se inscrevam em nosso canal para receber dicas diárias.
 -   [rapidR0017](https://youtu.be/k8rVCr6TzTg)
 -   [rapidR0018](https://youtu.be/FbTLrfYWQQw)
 -   [rapidR0019](https://youtu.be/-DOk1_6lphs)
+-   [rapidR0020](https://youtu.be/J4wJ5cK8KkU)
+-   [rapidR0021](https://youtu.be/vkfUQwPINXI)
+-   [rapidR0022](https://youtu.be/-DOk1_6lphs)
